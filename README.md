@@ -10,6 +10,12 @@ This project explores historical stock price data for HBO, Fox, and AMC Entertai
 - Performing data analysis to gain insights into the stock price trends for these companies.
 - Visualizing the data to present the findings effectively.
 
+## Project Purpose
+
+The purpose of the project is to analyze and compare the daily stock performance of AMC, FOX and HBO to identify trends while also making informed investment decisions within the financial sector, this project also allows
+to gain insights into the media entertainments industry factors and patterns that influence the performance of these companies stocks understanding how different events, marketing and company development affect the stock prices of each company on a day to day basis
+
+
 ## Data Sources
 
 The project uses the following data sources:
